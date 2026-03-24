@@ -59,6 +59,12 @@ Road-Accident-Impact-Injury-Analysis/
 
 ---
 
+## 📂 Dataset
+Due to file size limitations, the dataset is not included in this repository.
+
+You can access the dataset here:
+https://drive.google.com/file/d/1mLRnaNH4QxMYbBEYVOTt1Xzgl1UPAHnV/view
+
 ## 🚀 How to Use
 1. Download the `.pbix` file  
 2. Open it using Power BI Desktop  
